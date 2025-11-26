@@ -1,0 +1,1 @@
+ C:\\Users\\Home\\StudioProjects\\meal_recipes_app\\.dart_tool\\flutter_build\\5ea5795a0d941b934c1ea005a1b8e6a0\\native_assets.json: 
