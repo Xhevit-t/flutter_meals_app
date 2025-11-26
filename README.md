@@ -2,9 +2,10 @@
 
 A simple Flutter app that displays meal categories, meals inside each category, and detailed information for each meal.
 
-🚀 Run
-flutter pub get
+## 🚀 Run
 
+```bash
+flutter pub get
 flutter run
 
 🎥 Video Demo
