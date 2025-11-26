@@ -4,11 +4,9 @@ A simple Flutter app that displays meal categories, meals inside each category, 
 
 ## 🚀 Run
 
-```bash
-flutter pub get
-flutter run
+- `flutter pub get`  
+- `flutter run`
 
-🎥 Video Demo
+## 🎥 Video Demo
 
 https://github.com/user-attachments/assets/bd284c81-46e0-40ee-8b18-f762fed8fb84
-
