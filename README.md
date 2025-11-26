@@ -4,6 +4,7 @@ A simple Flutter app that displays meal categories, meals inside each category, 
 
 🚀 Run
 flutter pub get
+
 flutter run
 
 🎥 Video Demo
